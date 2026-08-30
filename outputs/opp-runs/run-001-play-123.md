@@ -100,8 +100,8 @@ Not *"I'm an AI consultant."* Instead:
 > I saw BDPA's 2026 theme is "Innovation in Motion," and that chapters run Tech Talks between
 > conferences. That's what prompted this note.
 >
-> I'm an R&D robotic test engineer by training. Years ago I secured funding from Eli Lilly for
-> youth technology and science education — before anyone had coined the term STEM.
+> I was an R&D Robotic Test Engineer for the National Science Foundation, and I ran technical
+> training across 43 departments in county government — on systems nobody asked for.
 >
 > Most AI sessions hand people a tool list. Your members don't need that. They need to know what
 > to build first, and to have something working at their desk on Monday.
@@ -121,7 +121,7 @@ Not *"I'm an AI consultant."* Instead:
 
 The first draft had no proof. This one earns the read in the second paragraph.
 
-**"R&D robotic test engineer"** does something no adjective can: it tells a room of technology
+**"R&D Robotic Test Engineer for the National Science Foundation"** does something no adjective can: it tells a room of technology
 professionals that you are one of them. BDPA members are engineers and IT professionals. They
 are pitched by marketers constantly. An engineer's credential changes the category you are read in.
 

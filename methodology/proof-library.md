@@ -27,11 +27,65 @@ teaches AI.** That is a category of one.
 
 ---
 
+## PUBLISHED CREDENTIALS — already live on pinkyfloyd.vip
+
+These run as a stats bar in the middle of the page. Corrected against the creator's own reading,
+2026-08-30.
+
+| Credential | Note |
+|---|---|
+| **$500K+ in grants and partnerships** | Career total. The single $250K community-organisation win sits inside this. |
+| **43 departments served** | Orange County government |
+| **R&D Robotic Test Engineer — National Science Foundation** | **Federal.** This is materially stronger than "an R&D robotic test engineer" and should never be shortened to that again. |
+| **AI Certified — Google, OpenAI** | Current, checkable, vendor-issued |
+| **Indiana University** | Grant training, CO-OP certificate |
+| **Nonprofit founder** | Her own 501(c)(3) |
+| **Certified United Way Fund Allocation Panel** | The grant-board seat, formally certified |
+
+### The strongest single line, corrected
+
+> **R&D Robotic Test Engineer for the National Science Foundation.**
+
+Federal, scientific, and impossible to wave away. For a technical audience this outranks every
+other credential on the list, and it belongs in the first two sentences of any outreach email,
+bio, or introduction. It was previously written as just "an R&D robotic test engineer" — that
+undersold it badly.
+
+---
+
+## What the site already does well — and the one thing it does not
+
+**Correcting an earlier assessment in this file.** The site is not missing credentials, and it is
+not missing a speaking offer. Both are present:
+
+- The stats bar carries the credentials above
+- The **AI Strategy & Training** card states it directly: *"I teach women who built their
+  businesses by hand how to use AI as an amplifier — on camera, **in the room**, and on the page."*
+
+**So what is actually missing is narrower than previously written.** A stats bar answers *is this
+person real?* It does not answer the four questions a programs chair has to answer for a
+committee she is sitting in without you:
+
+| Question | On the site |
+|---|---|
+| Is she real and credentialed | ✅ the stats bar |
+| Does she teach groups | ✅ the AI Strategy & Training card |
+| **What exactly would she speak on** | ❌ no named talks |
+| **How long, what format, what do we get** | ❌ no formats |
+| **Has she stood in a room like ours** | ❌ no past engagements, no photo of her teaching |
+| **Can I forward something to my committee** | ❌ no one-sheet |
+
+**A number proves you exist. A story is why they book you.** The stats bar is doing the first job
+well. Nothing on the site yet does the second.
+
+---
+
 ## GOVERNMENT — Orange County
 
 | Credential | Detail |
 |---|---|
 | **Technical training, 83 fire stations** | Responsible for technical training across the entire department |
+| **43 departments served** | Across Orange County government, published on site |
 | **Departmental software procurement** | Purchased and procured software for all 83 stations |
 | **Vendor evaluation** | Worked alongside IT and IT Security to interview and evaluate vendor companies presenting to the department |
 | **Train-the-trainer, top down** | Trained on each new system first, then trained every lieutenant and chief |
@@ -62,7 +116,7 @@ someone with no reason to flatter.
 | **Wrote her own grants** | Not a hired grant writer. Wrote them herself. |
 | **Sat on the grant board** | Selected to sit on the board that awards funding — she has been on both sides of the table |
 | **Formal grant training** | Certificate, Indiana University CO-OP **[DOCUMENT]** |
-| **$250,000+ secured for a community organization** | Roughly 20 years ago |
+| **$250,000+ secured for a community organization** | Roughly 20 years ago. Part of the published $500K+ career total. |
 
 ### What the nonprofit actually did
 
@@ -86,7 +140,7 @@ it is a method she has already proven on the hardest possible audience.
 | **Trained lieutenants and chiefs** | Career adults, mandatory training, on systems they did not choose |
 | **Trained countywide government staff** | Across departments, on new software rollouts |
 | **Taught youth and parents** | Technology and robotics, plus the parent showcase |
-| **R&D robotic test engineer** | The engineering background under all of it |
+| **R&D Robotic Test Engineer, National Science Foundation** | Federal engineering credential under all of it |
 
 **The range is the argument.** She has held a room of fire chiefs, a room of county employees, a
 room of kids taking a computer apart, and a room of their parents. Very few speakers can say that,
