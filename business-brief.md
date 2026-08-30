@@ -83,6 +83,64 @@ Three things this line now does in order:
 - [x] This brief
 - [x] OPP outreach emails (already lead with the engineering credential, which is consistent)
 
+## Identity — the triad
+
+**Pinky Floyd is an Architect, a Speaker, and a Creator.** All three, permanently. Not a phase,
+not a pivot, and not something to trim down for the sake of a tidy label.
+
+```
+              ARCHITECT          SPEAKER           CREATOR
+              she builds it      she teaches it    she shows it
+                    └──────────────┴──────────────┘
+                         one subject: AI SYSTEMS
+```
+
+### The rule that makes three titles compound instead of dilute
+
+**All three must share one subject.**
+
+Three titles pointing at three different subjects is three careers, and it reads as
+"she does a bit of everything." Three titles pointing at **one** subject is range, and range is
+what gets someone booked, hired, and followed by different people for different reasons.
+
+Hers all point at the same thing:
+
+| Title | What it means here | Who enters through this door |
+|---|---|---|
+| **Architect** | Builds the AI systems — twins, agent workforces, revenue systems | Business owners who want it done |
+| **Speaker** | Teaches those systems from a stage | Programs chairs, ERG leads, conference organisers |
+| **Creator** | Shows the work publicly — video, social, characters | Followers, future clients, the top of the funnel |
+
+Same subject. Three modes. That is coherent, and it is a genuine advantage — most people in this
+market have one door.
+
+### Identity vs. emphasis — the distinction that resolves the tension
+
+**Identity is permanent. Emphasis is seasonal.**
+
+- **Identity:** Architect · Speaker · Creator. This does not change.
+- **Emphasis right now:** **Speaker.** Because the OPP outreach is live and the immediate revenue
+  goal is booked rooms at $3,500/hr.
+
+So the positioning quote leads with *entrepreneur speaker* — that is this season's emphasis, and
+it is the right call while outreach is running. **It is not a demotion of the other two.** When
+the emphasis shifts to selling builds, the quote leads with architect. The triad underneath stays
+exactly the same.
+
+### How it should appear
+
+**Title block:**
+
+> **Pinky Floyd**
+> *The AI Glam Architect*
+> **Architect · Speaker · Creator**
+
+The brand title stays — it is distinctive and it is hers. The triad sits under it as the range.
+
+**And the site needs one door per title.** A programs chair, a business owner, and a follower are
+three different people arriving with three different questions. Right now the site answers the
+architect's question well, the creator's question partly, and the speaker's question not at all.
+
 ## Core promise
 
 Help entrepreneurs identify how to generate revenue in the first 30 days, then build
