@@ -19,7 +19,7 @@ The video proves the point by pointing a four-agent team at one deliberately ung
 
 The mechanism has a name (**The Revenue Build Order**) and a falsifiable proof beat (**The Challenge Pass**, where one agent scores and rejects another agent's work on screen). That rejection is the strategic core of the entire asset: a single prompt cannot produce it, because a single prompt has no second party to disagree with it.
 
-The video's CTA is the artifact itself — the same folder, dragged into an empty project, working. Free Kit → $97 Install Day → $1,497 Build Sprint → $7,500 Buildout.
+The video's CTA is the artifact itself — the same folder, dragged into an empty project, working. Free Kit → $97 Install Day → $1,497 Build Sprint → $7,497 Buildout.
 
 **Opportunity score: 30/35.** The two soft scores are searchability (3) and sub-15-minute viability (4). Both are fixed by packaging, not by changing the concept: the title lives in outcome language, and the edit is ruthless.
 
@@ -103,7 +103,7 @@ The video's CTA is the artifact itself — the same folder, dragged into an empt
 | 2 | **The Revenue Agent Kit** | Free (email) | Put the machine in their hands the same day |
 | 3 | **Install Day** — 2-hour live workshop, run the Build Order on your own business | **$97** ($47 early-bird, first 72h) | First paid transaction, first real output |
 | 4 | **The Revenue Build Sprint** — 14 days done-with-you, 5 assets shipped, offer live | **$1,497** (or 2 × $799) | Core monetization of this content |
-| 5 | **Revenue Systems Buildout** — 30 days done-for-you, 5 seats/month, by application | **$7,500** | Premium capacity |
+| 5 | **Revenue Systems Buildout** — 30 days done-for-you, 5 seats/month, by application | **$7,497** | Premium capacity |
 | 6 | **Agent Ops** — rubric tuning, new agent drops, quarterly re-run | **$297/month** | Convert buyers into MRR |
 
 **Rung 2 is deliberately generous.** The files are free. The Sprint does not sell the files — it sells calibration, tuned rubrics, and PinkyF's overrides. Say that out loud in the video; it disarms the "why pay if it's free" objection before it forms.
@@ -459,7 +459,7 @@ Ranked by cost.
 
 Nothing below was decided by the agent team. These are yours.
 
-1. **Confirm or change every price.** $47 / $97 / $1,497 / 2×$799 / $7,500 / $297-mo are all recommendations. Once final, **strip the hedging parentheticals from the emails** — hedged pricing inside a close reads as uncertainty and costs conversions.
+1. **Confirm or change every price.** $47 / $97 / $1,497 / 2×$799 / $7,497 / $297-mo are all recommendations. Once final, **strip the hedging parentheticals from the emails** — hedged pricing inside a close reads as uncertainty and costs conversions.
 2. **Checkout or application for the Sprint?** $1,497 with direct checkout works from cold YouTube. Above that, someone has to talk to a human — which means $2,997 with an application. **Pick one; do not straddle.**
 3. **Real business or disclosed composite?** A real named business beats Ledger & Lane. If you don't have one, use the composite and disclose it on camera.
 4. **Is Install Day actually on the calendar?** If not, the early-bird deadline in Emails 4 and 5 is fabricated and must be cut.

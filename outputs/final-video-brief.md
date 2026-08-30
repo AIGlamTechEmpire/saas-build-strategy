@@ -2,7 +2,7 @@
 
 **Supersedes:** `outputs/revenue-agent-demo.md` (v1). Where the two disagree, this file wins.
 **Produced by:** strategic second pass — `offer-architect` and `conversion-system-builder` re-scored v1 independently; coordinator merged and resolved conflicts.
-**Status:** ready to shoot once the six open decisions at the end are made.
+**Status:** decisions settled 2026-08-30 — prices confirmed, Sprint moved to application at $2,997, Install Day deadlines cut pending a date. One clarification outstanding (see Decisions — Settled).
 
 ---
 
@@ -357,19 +357,32 @@ Then: reply to the delivery email with the passed sentence. **That reply is the 
 
 ## The Ladder
 
-v1's ladder ran **free → $97 → 15× jump to $1,497**, with the $97 rung being a *live workshop*. Two structural problems: an evergreen video's traffic arrives every day, a live workshop happens twice a month, so most downloaders hit a wall with nothing to buy. And $97 → $1,497 is a 15× gap with an invisible value proposition bridging it.
+**Prices are CONFIRMED.** No hedging language anywhere in public-facing copy.
 
-| Rung | Asset | Price *(unconfirmed)* | Job | Always-on? |
+v1's ladder ran **free → $97 → 15× jump**, with the $97 rung being a *live workshop*. Two structural problems: an evergreen video's traffic arrives every day, a live workshop happens twice a month, so most downloaders hit a wall with nothing to buy. And a 15× gap needs more than an invisible value proposition bridging it.
+
+| Rung | Asset | Price | Job | Always-on? |
 |---|---|---|---|---|
 | 1 | The video | Free | Prove the mechanism, state the defensible number | ✅ |
 | 2 | **The Revenue Agent Kit** | Free (email) | Machine in their hands the same day | ✅ |
 | 3 | **The Calibration Pack** | **$97** | First transaction. Fixes the one thing the free Kit is honestly bad at. | ✅ |
-| 4 | **Install Day** — 2h live, 12 seats, 1st & 3rd Tuesday | **$297** | Qualification and proximity. They leave with a number. | Fixed cadence |
-| 5 | **The Revenue Build Sprint** — 14 days done-with-you | **$1,497** (or 2 × $799) | Core monetization | Rolling |
-| 6 | **Revenue Systems Buildout** — 30 days done-for-you, application | **$7,500** | Premium capacity, 3 seats/mo | Application |
+| 4 | **Install Day** — 2h live, 12 seats | **$297** | Qualification and proximity. They leave with a number. | Fixed cadence — **date TBC** |
+| 5 | **The Revenue Build Sprint** — 14 days done-with-you, **by application** | **$2,997** | Core monetization | Application |
+| 6 | **Revenue Systems Buildout** — 30 days done-for-you, application | **$7,497** | Premium capacity, 3 seats/mo | Application |
 | 7 | **Agent Ops** | **$297/mo** | MRR — post-purchase only | Post-purchase |
 
-Gap ratios: free → $97 → 3× → 5× → 5×. The hole is closed.
+Gap ratios: free → $97 → 3× → 10× → 2.5×.
+
+### The $297 → $2,997 gap, and what closes it
+
+Choosing **application at $2,997** over checkout at $1,497 reopens the gap the second-pass audit had closed — and that is the correct trade, not an oversight. The audit's own rule was: *$1,497 is the ceiling for a no-call checkout from cold YouTube; above that, someone has to talk to a human.* At $2,997 that human conversation is not overhead, it is the bridge. Nobody jumps $297 → $2,997 off an email. They jump it off a call.
+
+**So the application is now load-bearing, and two things follow:**
+
+1. **Install Day is no longer just a qualifier — it is the primary application source.** Twelve people, two hours, cameras on, immediately before the Sprint is named. That is the highest-intent application pool available, and it is worth protecting: do not sell Install Day seats to people who could not afford the Sprint.
+2. **The application itself must do work, not just collect a name.** Four fields, all diagnostic: current monthly revenue; where the last three clients came from; the ICP sentence they got through Seat 1 (this filters for activation, not curiosity); and one line on what "offer live" would change for them. An application that anyone can complete in ten seconds selects for nobody.
+
+**No public price on the Sprint page.** At $2,997 by application, the number is named on the call, after the diagnosis. Publishing it on a page invites the comparison shop you specifically opted out of by choosing application over checkout. The video and emails can say "this is a four-figure done-with-you build, by application" — that is honest and it does not straddle.
 
 **Rung 3 — The Calibration Pack, $97, instant download, no live date required.** The free Kit ships a generic rubric, and v1 already admitted that generic rubric is "the file most people will get wrong." This is that file, non-generic:
 
@@ -380,9 +393,17 @@ Gap ratios: free → $97 → 3× → 5× → 5×. The hole is closed.
 
 Zero delivery cost. Available at 3am to someone who found the video eight months post-publish. Converts a subscriber into a **buyer**, which is the only list segmentation that predicts anything.
 
-**Rung 4 — Install Day, $297, 12 seats, fixed cadence, no replay sold.** $97 was the right price on the wrong product. At $297 × 12 it is worth running and worth showing up prepared for, and it does what a workshop is actually good at: twelve qualified buyers in a room with you for two hours immediately before you name the Sprint. Install Day's job is qualification and proximity, not margin. Includes the Calibration Pack.
+**Rung 4 — Install Day, $297, 12 seats, no replay sold. NOT YET ON THE CALENDAR.**
 
-**Rung 5 — The Sprint. Six countable artifacts, not "calibration":**
+$97 was the right price on the wrong product. At $297 × 12 it is worth running and worth showing up prepared for, and it does what a workshop is actually good at: twelve qualified buyers in a room with you for two hours immediately before you name the Sprint. Its job is qualification and proximity, not margin. Includes the Calibration Pack.
+
+> **⚠ Blocking dependency.** Install Day has no date, time, or time zone set. Until it does:
+> - **Every deadline, countdown, and "[X] seats left" reference is cut** from Emails 5 and 6. Not softened — cut. A deadline you cannot honor, aimed at an audience whose defining trait is having been sold to too many times, is the single worst move available in this funnel.
+> - **The Bleed carries all urgency in the meantime.** It is honest, it recurs monthly, and the viewer computes it themselves. It was always the stronger device.
+> - **Set two dates before publish, not one.** A single date means anyone who finds the video the following week hits a wall. Two dates, four to six weeks out, published as a cadence, means the ladder holds for evergreen traffic.
+> - **If Install Day cannot be scheduled before the video ships,** the ladder runs free → Kit → $97 Calibration Pack → application. That works. The Calibration Pack is always-on and carries the first transaction on its own. Do not delay the video for a workshop date.
+
+**Rung 5 — The Sprint. $2,997, by application. Six countable artifacts, not "calibration":**
 
 1. Offer page **published at a live URL**
 2. Lead magnet built and **delivered by a working email**
@@ -545,26 +566,22 @@ The gap is **defined vs. shipped**, not *machine vs. aim*.
 **No pitch to this segment.** Pitching a paid product to someone who never opened a free folder is how you buy unsubscribes.
 
 ### Email 5 — Day 8 — CLOSE
-**Subject:** Two hours, twelve seats, and a number
-**Preview:** Read this before you buy it.
+**Subject:** Which of these two problems is yours
+**Preview:** Read this before you buy anything.
 
-> Install Day is the first and third Tuesday. Twelve seats. Next one is [DATE], [TIME] [TZ]. [X] left. **Replay is not the product — you build on the call.**
+> You've got a defined buyer and probably a price you haven't published. So here's the honest fork, and only you know which side you're on.
 >
-> Two hours, live. We run the full Build Order on your business, in your project, on your screen. You leave with a named buyer, a named offer, and a number attached to it. **$297.**
+> **If your problem is clarity** — you still can't name your buyer sharply, or you can name them and can't price them — that's two hours of work, not fourteen days. **Install Day. $297.** Twelve people, live, cameras on. We run the full Build Order on your business, in your project, on your screen, and you leave with a named buyer, a named offer, and a number attached to it. No replay is sold. You build on the call or you don't.
 >
-> [Take a seat]
+> [Get on the Install Day list]
 >
-> Before you decide, what it will *not* do.
+> **If your problem is that nothing you define ever ships** — and if that's you, you already knew it before the end of this sentence — Install Day is the wrong door. It will hand you a fifteenth clear decision you do nothing with.
 >
-> It gets you a defined, priced offer in two hours. It does not get that offer **live**. No page published, no lead magnet delivered, no sequence sending, no angles scripted. That's a different amount of work and I'm not going to pretend a Tuesday afternoon covers it.
+> That's the Build Sprint. Fourteen days, done with you. Offer page live at a URL. Lead magnet delivered by a working email. Sequence sending. Three angles scripted. Your agent folder tuned to your category. And the price quoted to at least one real prospect before Day 14 — that last one is how we know it's done. If your offer isn't live at a URL on Day 14, the next fourteen days are free.
 >
-> So pick honestly:
+> It's four figures, it's done with you, and it's **by application** — because I'm not selling a fourteen-day build to someone I haven't talked to, and you shouldn't buy one from someone who'd let you.
 >
-> **If your problem is clarity** — you can't name your buyer, or you can name them and can't price them — Install Day is the door.
->
-> **If your problem is that nothing you define ever ships** — and you already know this about yourself — Install Day hands you a fifteenth clear decision you'll do nothing with. That's the Sprint. Fourteen days, done with you, offer live at a URL, quoted to a real prospect before Day 14, or the next fourteen days are free.
->
-> [Install Day — $297] · [The Sprint — $1,497]
+> [Apply for the Build Sprint]
 >
 > And if it's neither, that's a real answer. You have the Kit. Fill in the brief. Run the four seats. It works — it just works slower, and you do the calibration yourself.
 >
@@ -573,6 +590,11 @@ The gap is **defined vs. shipped**, not *machine vs. aim*.
 > — PinkyF
 
 **Two buttons, both to pages.** v1 used `reply SPRINT` — a manual step on the highest-value transaction in the ladder. Reply CTAs belong at the free tier.
+
+**Three changes forced by your decisions:**
+- **No date, no seat count, no countdown** — Install Day isn't scheduled. `[Get on the Install Day list]` collects interest honestly instead of faking scarcity, and it builds the list that makes scheduling worth doing.
+- **No price on the Sprint.** By application means the number is named on the call, after the diagnosis. "It's four figures, done with you, by application" is honest, doesn't straddle, and doesn't invite a comparison shop.
+- **The application requirement is framed as a standard, not a hurdle** — *"I'm not selling a fourteen-day build to someone I haven't talked to, and you shouldn't buy one from someone who'd let you."* For a burned audience, a gate you justify converts better than an open checkout.
 
 ### Email 6 — Day 12 — RE-OPEN
 **Subject:** Your number, one more time
@@ -584,7 +606,7 @@ The gap is **defined vs. shipped**, not *machine vs. aim*.
 >
 > The folder is still free and it stays free: [Kit]. Ten minutes, one sentence, one price.
 >
-> Next Install Day is [date]. [Seat here]
+> Not on the Install Day list yet? [Add your name] — I'll tell you first when the next one is set.
 >
 > Last email in this sequence — after this you'll only hear from me when there's a new build.
 >
@@ -601,8 +623,8 @@ Merged from both auditors, ranked by damage if shipped as-is.
 | 1 | **Replace `$5,400` everywhere with `$1,500 → $2,700 · SAME 6 CLIENTS`** | Arithmetically false as framed. One comment does the math and every honest beat gets re-read as staged. |
 | 2 | **Cut the runtime as content, before shooting** | Honest floor was 16:37; realistic raw cut 19–22 min. You cannot edit to 14:00 without destroying the falsifiability shots. Merged map: 14:09. |
 | 3 | **Rewrite the ICP to operator level** | "Coaches, consultants, and service providers" is the exact failure the video rejects on camera at 3:44. |
-| 4 | **Replace the $1,497 value argument with six shipped artifacts + Day-14 guarantee** | "Aiming it is the paid part" is an invisible adjective against a free complete mechanism. |
-| 5 | **Add an always-on paid rung (Calibration Pack, $97); move Install Day to $297** | An evergreen video cannot funnel into a twice-monthly live event. Every dollar between free and $1,497 leaks. |
+| 4 | **Replace the Sprint's value argument with six shipped artifacts + Day-14 guarantee** | "Aiming it is the paid part" is an invisible adjective against a free complete mechanism. |
+| 5 | **Add an always-on paid rung (Calibration Pack, $97); move Install Day to $297** | An evergreen video cannot funnel into a twice-monthly live event. Every dollar between free and the Sprint leaks. |
 | 6 | **Fix the hook to 53 words** | v1 was 42 seconds wearing a 0:20 label, pushing the best line past the drop-off cliff. |
 | 7 | **Say the email gate out loud in the CTA** | The video promises a folder, the next click is a form. This audience is calibrated to punish exactly that. |
 | 8 | **Add the Broken-Order Test at 9:59** | The only beat that *proves* the mechanism rather than asserting it. Cheapest high-leverage addition available. |
@@ -619,19 +641,30 @@ Merged from both auditors, ranked by damage if shipped as-is.
 
 ---
 
-## Open Decisions
+## Decisions — Settled
 
-Six calls the agent team cannot make for you.
+Confirmed by PinkyF, 2026-08-30.
 
-1. **Confirm every price.** $97 / $297 / $1,497 / 2×$799 / $7,500 / $297-mo are recommendations. Once final, **strip the hedging language** — hedged pricing inside a close reads as uncertainty and costs conversions.
-2. **Sprint: checkout or application?** $1,497 with direct checkout works from cold YouTube. Above that a human has to talk to them, which means ~$2,997 with an application. **Pick one; do not straddle.**
-3. **Real business or disclosed composite?** A real named business beats Ledger & Lane. Without one, say on camera: *"This is a composite of three real bookkeepers I've talked to, and the numbers are real market numbers."* A skeptical audience forgives a disclosed composite; it does not forgive a hypothetical dressed as real.
-4. **Is Install Day on the calendar with a date, time, and time zone?** If not, cut every deadline reference from Emails 5 and 6.
-5. **Five emails or six?** The sixth (Day 12 re-open) exists because activation lags the calendar. Dropping it returns you to the five you asked for, with most of the gain intact.
-6. **Reply-volume cutoff for Email 1.** At what download count does the manual reply become a two-field form?
+| # | Decision | Answer | Consequence applied |
+|---|---|---|---|
+| 1 | Prices | **Confirmed**, with Buildout at **$7,497** (not $7,500) | All hedging language stripped from public-facing copy |
+| 2 | Sprint: checkout or application | **Application at $2,997** | No public price. Application is now load-bearing; Install Day becomes the primary application source; four diagnostic fields added |
+| 3 | Business identity | **AI GlamTech Empire** · program **AI Agents R With Us** | See open item below — this needs one clarification before it lands |
+| 4 | Install Day scheduled | **Not yet** | Every date, deadline, seat count, and countdown cut from Emails 5 and 6. The Bleed carries all urgency. `[Get on the Install Day list]` replaces `[Take a seat]` |
+| 5 | Email count | **Six**, Days 0/1/3/5/8/12, branched on activation | Kept as built |
+| 6 | Reply-volume cutoff for Email 1 | Not set | Still open — low urgency, decide when downloads pass ~200 |
 
-### One number to verify before shooting
+### Consequence worth knowing: the ladder gap reopened, on purpose
 
-**$450/month for a single-truck owner-operator's bookkeeping is plausible and near the upper end** — comfortable for a 2-to-5-truck fleet, defensible as a composite, but **not evidenced**. This build had no web access; the figure is labeled inference throughout.
+Choosing application at $2,997 over checkout at $1,497 widens the jump from Install Day ($297) to the Sprint from 5× to 10×. **That is the right trade and not an oversight** — the audit's own rule was that $1,497 is the ceiling for a no-call checkout from cold YouTube, and above it a human has to talk to them. The application call *is* the bridge.
 
-If you can get one real quote from one real trucking bookkeeper before filming, do. If you can't, **drop the retainer to $400.** It costs $600/year of headline and buys total defensibility — and defensibility is the entire product.
+But it makes two things load-bearing that were previously optional:
+
+1. **Install Day is now your main application source**, which raises the cost of it not being scheduled.
+2. **The application must be diagnostic, not a name-collector** — four fields, one of which asks for the ICP sentence they got through Seat 1. That filters for activation rather than curiosity, which is the only filter that predicts a close at this price.
+
+### Still to verify before shooting
+
+**$450/month for trucking bookkeeping is plausible but unverified.** This build had no web access, so the figure is labeled inference throughout. One real quote from one real trucking bookkeeper settles it. If you can't get one, **drop the retainer to $400** — it costs $600/year of headline and buys total defensibility.
+
+**This item may disappear entirely** depending on how the AI GlamTech Empire question below resolves. If the on-camera demo becomes your own business, there is no invented bookkeeper and no unverified price — every number is yours and checkable.

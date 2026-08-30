@@ -218,7 +218,7 @@ At least one point per run, the human operator overrules an agent and states the
 
 Owned by PinkyF. Not decided by the agent team.
 
-1. **Confirm every price.** $47 / $97 / $1,497 / 2×$799 / $7,500 / $297-mo are all recommendations. Once final, strip the hedging language from the emails — hedged pricing inside a close reads as uncertainty.
+1. **Confirm every price.** $47 / $97 / $1,497 / 2×$799 / $7,497 / $297-mo are all recommendations. Once final, strip the hedging language from the emails — hedged pricing inside a close reads as uncertainty.
 2. **Sprint: checkout or application?** $1,497 direct checkout works from cold YouTube. Above that, a human has to talk to them, which means ~$2,997 with an application. **Pick one; do not straddle.**
 3. **Real business or disclosed composite?** A real named business beats Ledger & Lane. Without one, use the composite and disclose it on camera.
 4. **Is Install Day on the calendar?** If not, the early-bird deadline is fabricated and must be cut.
