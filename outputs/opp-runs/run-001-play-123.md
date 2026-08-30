@@ -91,7 +91,7 @@ Not *"I'm an AI consultant."* Instead:
 
 ---
 
-## The email — 148 words
+## The email — 149 words
 
 **Subject:** A working AI session for your chapter — members leave with one automation built
 
@@ -100,23 +100,38 @@ Not *"I'm an AI consultant."* Instead:
 > I saw BDPA's 2026 theme is "Innovation in Motion," and that chapters run Tech Talks between
 > conferences. That's what prompted this note.
 >
-> Most AI sessions tell people which tools to use. Your members don't need another tool list.
-> They need to know what to build first — and to show something working at their desk on Monday.
+> I'm an R&D robotic test engineer by training. Years ago I secured funding from Eli Lilly for
+> youth technology and science education — before anyone had coined the term STEM.
+>
+> Most AI sessions hand people a tool list. Your members don't need that. They need to know what
+> to build first, and to have something working at their desk on Monday.
 >
 > I'd like to offer your chapter a free 60-minute working session: **"Where Your Work Is
 > Bleeding: Find the 10 Hours AI Should Be Doing For You."**
 >
-> Members leave with three things: their own repeatable tasks mapped with hours attached, a
-> scored answer on which one to automate first, and one working automation built live on the call.
->
-> No pitch, no product. Just an hour they can use immediately.
+> Members leave with their own tasks mapped and scored, an answer on which one to automate
+> first, and one working automation built live on the call.
 >
 > Would a Tech Talk slot this quarter make sense?
 >
-> Casandra
-> AI GlamTech Empire
+> Pinky Floyd
+> pinkyfloyd.vip
 
----
+### Why this version beats the first draft
+
+The first draft had no proof. This one earns the read in the second paragraph.
+
+**"R&D robotic test engineer"** does something no adjective can: it tells a room of technology
+professionals that you are one of them. BDPA members are engineers and IT professionals. They
+are pitched by marketers constantly. An engineer's credential changes the category you are read in.
+
+**"Eli Lilly, before the term STEM existed"** does two things at once — Fortune 500 validation,
+and evidence that you were early rather than following a trend. For an organization whose 2026
+theme is literally *keeping pace with emerging trends*, being demonstrably ahead of one is the
+strongest possible fit.
+
+Both facts are already published on pinkyfloyd.vip, so nothing here is invented and nothing
+overclaims.
 
 ## Before you send — two minutes
 
