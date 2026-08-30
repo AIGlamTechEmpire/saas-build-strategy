@@ -36,7 +36,7 @@ Two distinct roles, no conflict:
 
 This is the most important finding in this pass, and every previous pass walked past it.
 
-**The agent architecture is copyable in an afternoon.** You are going to show four `.md` files on camera, scrolled slowly, at readable zoom, and explain that they are plain English. That is the right call for the video — it kills the "I can't code" objection in eight seconds. But be clear-eyed about the consequence: **you are giving away the architecture on purpose, and it is not defensible.** Anyone who watches the video carefully can rebuild the four seats. The Kit just saves them twenty minutes.
+**The agent architecture is copyable in an afternoon.** You are going to show four `.md` files on camera, scrolled slowly, at readable zoom, and explain that they are plain English. That is the right call for the video — it kills the "I can't code" objection in eight seconds. But be clear-eyed about the consequence: **you are giving away the architecture on purpose, and it is not defensible.** Anyone who watches the video carefully can rebuild the four seats. The System just saves them twenty minutes.
 
 So what is actually defensible?
 
@@ -45,7 +45,7 @@ So what is actually defensible?
 Look at what your own second pass concluded without noticing the implication:
 
 - The Calibration Pack's contents are the **Disqualification Library** (40 worked "who this is NOT for" statements) and the **Rejected-ICP Gallery** (25 real first passes with rejection reasons and passing rewrites).
-- The stated reason the free Kit is limited: *"it can't tell a specific ICP from a specific-sounding one in your category, because it's never seen your market."*
+- The stated reason the free System is limited: *"it can't tell a specific ICP from a specific-sounding one in your category, because it's never seen your market."*
 - The Sprint's real deliverable: rubrics tuned to the buyer's category.
 
 Every paid rung on your ladder sells **calibration data**, not software. The agents are the delivery mechanism. The rubric corpus is the product.
@@ -60,7 +60,7 @@ Every paid rung on your ladder sells **calibration data**, not software. The age
 
 Do this for six months and you own a corpus nobody can copy from watching a video, because it isn't in the video — it accumulated. That is a compounding asset, and it is the only one in this business.
 
-**Practical change to the Kit:** `challenge-pass-rubric.md` should ship with a line at the bottom — *"Got rejected on something this rubric couldn't catch? Send it to me. I tune these monthly and you'll get the update."* You are asking people to donate the training data for the thing you sell, and they will, because you are giving them the machine for free. That is a fair trade and it is stated plainly.
+**Practical change to the System:** `challenge-pass-rubric.md` should ship with a line at the bottom — *"Got rejected on something this rubric couldn't catch? Send it to me. I tune these monthly and you'll get the update."* You are asking people to donate the training data for the thing you sell, and they will, because you are giving them the machine for free. That is a fair trade and it is stated plainly.
 
 ---
 
@@ -95,7 +95,7 @@ So a viewer who is fully convinced at minute 14 — who wants this, has money, a
 
 ### The fix, and it is cheap
 
-**Add one sentence to the CTA.** After the Kit line, before the close:
+**Add one sentence to the CTA.** After the System line, before the close:
 
 > "And if you'd rather not build it yourself — if you want this run *on* your business, with me — there's a second link. That one's an application, not a checkout."
 
@@ -117,13 +117,13 @@ Small observation, real consequence.
 
 The video's spine is: **the money is not in the tools, it is in the system and the order.** You say it in the hook. You prove it with the Broken-Order Test.
 
-Then the CTA gives away... a folder of tools. And it is called **The Revenue Agent Kit** — named after the agents. The least valuable files in the folder, by the video's own argument.
+Then the CTA gives away... a folder of tools. And it is called **The Pinky Brain Revenue System** — named after the agents. The least valuable files in the folder, by the video's own argument.
 
 By your thesis, the valuable files are `build-order.md` and `challenge-pass-rubric.md`. The agents are interchangeable; the order and the scoring are the IP.
 
-**Recommendation:** rename the lead magnet to foreground the system, not the tools. **The Build Order Kit.** Same contents, same folder, one word different — and it stops the CTA from quietly contradicting the thesis fourteen minutes after you established it.
+**Recommendation:** rename the lead magnet to foreground the system, not the tools. **The Build Order System.** Same contents, same folder, one word different — and it stops the CTA from quietly contradicting the thesis fourteen minutes after you established it.
 
-If you keep "Revenue Agent Kit" for brand reasons, then at minimum change the CTA line to lead with the runbook: *"Four agent files, the build order, and the rubric that lets them tell each other no"* → *"The build order, the rubric that lets them tell each other no, and the four agents that run it."* Order of mention is positioning.
+If you keep "Pinky Brain Revenue System" for brand reasons, then at minimum change the CTA line to lead with the runbook: *"Four agent files, the build order, and the rubric that lets them tell each other no"* → *"The build order, the rubric that lets them tell each other no, and the four agents that run it."* Order of mention is positioning.
 
 ---
 

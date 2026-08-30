@@ -125,7 +125,7 @@ Seats read **files**, not conversation. No artifact, no run.
 
 ### 2. The Gate — the Challenge Pass
 
-**No seat is permitted to be agreeable.** Before any artifact moves downstream, the receiving seat scores it against a published rubric and may reject it **once**, in writing, with the reason. Five criteria, 1–5 each. **Any criterion below 3 is an automatic rejection.** The thresholds ship in the Kit; they are not vibes.
+**No seat is permitted to be agreeable.** Before any artifact moves downstream, the receiving seat scores it against a published rubric and may reject it **once**, in writing, with the reason. Five criteria, 1–5 each. **Any criterion below 3 is an automatic rejection.** The thresholds ship in the System; they are not vibes.
 
 The OFFER seat's rubric on an incoming signal:
 
@@ -139,7 +139,7 @@ The OFFER seat's rubric on an incoming signal:
 
 That last row is load-bearing. A seat must reject on **insufficient input**, not only on bad output. Otherwise three vague lines get a vague pass and the mechanism silently no-ops.
 
-**Hard rule: one rejection per handoff, in the Kit exactly as on camera.** v1's friction check built a sales trigger on a *second* rejection pointing at the paid workshop. That contradicts the mechanism's own stated rule, and to an audience defined by having been sold to too many times it reads as a paywall wearing a rubric's clothes. If a second pass still falls short, the agent **accepts it with a named soft flag** — *"This will run, but it's still soft on [field]. That's the part a tuned rubric would catch."* Honest, non-blocking, and a better paid-tier trigger than a locked door.
+**Hard rule: one rejection per handoff, in the System exactly as on camera.** v1's friction check built a sales trigger on a *second* rejection pointing at the paid workshop. That contradicts the mechanism's own stated rule, and to an audience defined by having been sold to too many times it reads as a paywall wearing a rubric's clothes. If a second pass still falls short, the agent **accepts it with a named soft flag** — *"This will run, but it's still soft on [field]. That's the part a tuned rubric would catch."* Honest, non-blocking, and a better paid-tier trigger than a locked door.
 
 ### 3. The Override — the named human calibration point
 
@@ -220,7 +220,7 @@ Alternates: `SAME CLIENTS. +$1,200/MO.` · `BUILD ORDER` · `STEP 1, NOT STEP 3`
 | **10:54–12:00** | **Seats 3 + 4 merged** | One block, fast on purpose, **and say why**: *"Last two seats. Watch how fast this gets once there's an offer underneath it. That speed is the whole argument."* Graphic turns green. | "Let's look at what we built." |
 | **12:00–12:42** | **Deliverable + honest elapsed time** | Finished doc, readable zoom, **5 full silent seconds, music bed killed.** Then real wall-clock, plainly, including that it isn't the edit's runtime. | "Two things this doesn't do." |
 | **12:42–13:17** | **What this is NOT** | Doesn't find clients, doesn't send emails, doesn't replace judgment. Then The Plateau: *"Nothing is going wrong in a referral business. That's the problem. Nothing going wrong is exactly what a plateau feels like from the inside — right up until year three, when you notice the number hasn't moved and you can't point to the month it stopped."* **Do not say "you're not behind" here** — it is the CTA's closer, and repeating it 45 seconds early kills it in both places. | "So take mine." |
-| **13:17–14:09** | **CTA: the artifact** | Kit dragged into a fresh project → agents appear → one runs. | — |
+| **13:17–14:09** | **CTA: the artifact** | System dragged into a fresh project → agents appear → one runs. | — |
 
 ### Cut from v1, and why
 
@@ -274,7 +274,7 @@ Spoken over the screen recording of the folder being dragged into an empty proje
 >
 > I'm dropping in the same folder I just used. There's the four agents. And… running.
 >
-> That folder is the Revenue Agent Kit. Four agent files and the rubric that lets them tell each other no.
+> That folder is the Pinky Brain Revenue System. Four agent files and the rubric that lets them tell each other no.
 >
 > Link's below — drop your email, folder comes back in ten seconds. It's the folder, not a PDF.
 >
@@ -298,19 +298,19 @@ Spoken over the screen recording of the folder being dragged into an empty proje
 
 v1 timed twelve on-screen beats to the second and specified **no YouTube description, no pinned comment, and no chapter markers** — the highest-traffic conversion surface in the whole asset. On a browse/suggested play, a large share of clicks come from the description, and no mobile viewer can type a URL.
 
-- **Description:** Kit link in line one, above the fold. Disqualifications. Chapter list.
-- **Pinned comment:** Kit link plus the phone→desktop handoff.
+- **Description:** System link in line one, above the fold. Disqualifications. Chapter list.
+- **Pinned comment:** System link plus the phone→desktop handoff.
 - **Chapter-mark the Challenge Pass at 3:44.** It is the shareable moment and right now nobody can link to it.
 - **Mobile and TV viewers cannot install a CLI.** Add: *"On your phone? Tap the link — I'll send the folder and a 60-second install walkthrough to your desktop for later."*
 
 ---
 
-## Lead Magnet — The Revenue Agent Kit
+## Lead Magnet — The Pinky Brain Revenue System
 
 **Promise:** The exact four-agent build order from the video, in a folder you drop into an empty project. Your business goes in. A defined buyer, a priced offer, three angles, and a follow-up sequence come out.
 
 ```
-revenue-agent-kit/
+pinky-brain-revenue-system/
 ├── START-HERE.md
 ├── business-brief.md
 ├── .claude/agents/          (four files, shipped unedited from the video)
@@ -343,7 +343,7 @@ The rejection is the mechanism. The **passed sentence** is the prize.
 
 **Beat 1 — the no.** Promised in bold above the fold in `START-HERE.md`: *"Your first answer is going to get sent back. That's the tool. Everything below is how you get through it in four minutes."*
 
-**Beat 2 — the pass, engineered to be reachable.** The rejection must return three things or the Kit is broken:
+**Beat 2 — the pass, engineered to be reachable.** The rejection must return three things or the System is broken:
 
 1. **The missing fields by name** — not "too broad," but *"missing: the buyer's recurring deadline; the system they already pay for; the specific task they're behind on."*
 2. **One before/after from a different category than the user's** — ship three: a bookkeeper, a paid-ads freelancer, a brand designer.
@@ -364,8 +364,8 @@ v1's ladder ran **free → $97 → 15× jump**, with the $97 rung being a *live 
 | Rung | Asset | Price | Job | Always-on? |
 |---|---|---|---|---|
 | 1 | The video | Free | Prove the mechanism, state the defensible number | ✅ |
-| 2 | **The Revenue Agent Kit** | Free (email) | Machine in their hands the same day | ✅ |
-| 3 | **The Calibration Pack** | **$97** | First transaction. Fixes the one thing the free Kit is honestly bad at. | ✅ |
+| 2 | **The Pinky Brain Revenue System** | Free (email) | Machine in their hands the same day | ✅ |
+| 3 | **The Calibration Pack** | **$97** | First transaction. Fixes the one thing the free System is honestly bad at. | ✅ |
 | 4 | **Install Day** — 2h live, 12 seats | **$297** | Qualification and proximity. They leave with a number. | Fixed cadence — **date TBC** |
 | 5 | **The Revenue Build Sprint** — 14 days done-with-you, **by application** | **$2,997** | Core monetization | Application |
 | 6 | **Revenue Systems Buildout** — 30 days done-for-you, application | **$7,497** | Premium capacity, 3 seats/mo | Application |
@@ -384,7 +384,7 @@ Choosing **application at $2,997** over checkout at $1,497 reopens the gap the s
 
 **No public price on the Sprint page.** At $2,997 by application, the number is named on the call, after the diagnosis. Publishing it on a page invites the comparison shop you specifically opted out of by choosing application over checkout. The video and emails can say "this is a four-figure done-with-you build, by application" — that is honest and it does not straddle.
 
-**Rung 3 — The Calibration Pack, $97, instant download, no live date required.** The free Kit ships a generic rubric, and v1 already admitted that generic rubric is "the file most people will get wrong." This is that file, non-generic:
+**Rung 3 — The Calibration Pack, $97, instant download, no live date required.** The free System ships a generic rubric, and v1 already admitted that generic rubric is "the file most people will get wrong." This is that file, non-generic:
 
 - Six category-specific rubric packs — coaching, done-for-you, local services, agencies, technical consulting, creator businesses
 - **The Disqualification Library** — 40 worked "who this is NOT for" statements, the hardest field in the system and the one every first pass fails
@@ -401,7 +401,7 @@ $97 was the right price on the wrong product. At $297 × 12 it is worth running 
 > - **Every deadline, countdown, and "[X] seats left" reference is cut** from Emails 5 and 6. Not softened — cut. A deadline you cannot honor, aimed at an audience whose defining trait is having been sold to too many times, is the single worst move available in this funnel.
 > - **The Bleed carries all urgency in the meantime.** It is honest, it recurs monthly, and the viewer computes it themselves. It was always the stronger device.
 > - **Set two dates before publish, not one.** A single date means anyone who finds the video the following week hits a wall. Two dates, four to six weeks out, published as a cadence, means the ladder holds for evergreen traffic.
-> - **If Install Day cannot be scheduled before the video ships,** the ladder runs free → Kit → $97 Calibration Pack → application. That works. The Calibration Pack is always-on and carries the first transaction on its own. Do not delay the video for a workshop date.
+> - **If Install Day cannot be scheduled before the video ships,** the ladder runs free → System → $97 Calibration Pack → application. That works. The Calibration Pack is always-on and carries the first transaction on its own. Do not delay the video for a workshop date.
 
 **Rung 5 — The Sprint. $2,997, by application. Six countable artifacts, not "calibration":**
 
@@ -424,7 +424,7 @@ Item 6 is the completion criterion. The Sprint is not done when the assets exist
 
 It sounds excellent and it sells nothing. "Aiming" is a service-quality adjective — a buyer cannot picture it, compare it, or tell afterward whether they got it. Worse, it concedes that the machine you spent fourteen minutes making desirable is worth zero.
 
-**Replace with:** *"The Kit gets you a defined offer. The Sprint gets you a live one. Those are different objects, and only one of them has ever produced a payment."*
+**Replace with:** *"The System gets you a defined offer. The Sprint gets you a live one. Those are different objects, and only one of them has ever produced a payment."*
 
 The gap is **defined vs. shipped**, not *machine vs. aim*.
 
@@ -447,10 +447,10 @@ The gap is **defined vs. shipped**, not *machine vs. aim*.
 **The single biggest fix here: the offer no longer fires on a calendar. It fires on activation.**
 
 ### Email 1 — Day 0 — DELIVERY
-**Subject:** The Revenue Agent Kit (open the brief first)
+**Subject:** The Pinky Brain Revenue System (open the brief first)
 **Preview:** Ten minutes. One ICP you can actually price.
 
-> Here's the Kit. [Download]
+> Here's the System. [Download]
 >
 > Four agent files. The business brief template. The build order. The rubric.
 >
@@ -530,7 +530,7 @@ The gap is **defined vs. shipped**, not *machine vs. aim*.
 
 > You ran it. You have an ICP sentence and probably a price you haven't published.
 >
-> The Kit is free and it stays free. Nothing in it is crippled. But there's one file I want to be straight with you about: `challenge-pass-rubric.md`.
+> The System is free and it stays free. Nothing in it is crippled. But there's one file I want to be straight with you about: `challenge-pass-rubric.md`.
 >
 > It ships generic. It has to — it doesn't know whether you're a coach, a fractional CFO, or a guy who does drone roof inspections. So it can tell a category from a customer, which is why it sent your first pass back. What it *can't* do is tell a specific ICP from a **specific-sounding** one inside your market. That's the difference between "small business owners" and "small business owners in home services," which sounds narrower and is exactly as unpriceable.
 >
@@ -553,7 +553,7 @@ The gap is **defined vs. shipped**, not *machine vs. aim*.
 **Subject:** Still unopened — which of these two is it?
 **Preview:** One of them I can fix in a minute.
 
-> The Kit's been in your inbox five days. If it's still unopened it's one of two things, and I can only help with one.
+> The System's been in your inbox five days. If it's still unopened it's one of two things, and I can only help with one.
 >
 > **One: you hit the install and stopped.** Fair — it's a terminal, and this is the number one place people drop off. [60-second install video.] Or skip it entirely: `fallback/paste-prompts.md` in the folder is the same four agents as pasteable prompts for a Claude Project, in a browser, in two minutes. Worse experience, same output.
 >
@@ -583,7 +583,7 @@ The gap is **defined vs. shipped**, not *machine vs. aim*.
 >
 > [Apply for the Build Sprint]
 >
-> And if it's neither, that's a real answer. You have the Kit. Fill in the brief. Run the four seats. It works — it just works slower, and you do the calibration yourself.
+> And if it's neither, that's a real answer. You have the System. Fill in the brief. Run the four seats. It works — it just works slower, and you do the calibration yourself.
 >
 > You're not behind. You were building in the wrong order.
 >
@@ -604,7 +604,7 @@ The gap is **defined vs. shipped**, not *machine vs. aim*.
 >
 > If you ran it, that number just billed you again. It bills you every thirty days, quietly, and it's the only deadline in this business that's actually real.
 >
-> The folder is still free and it stays free: [Kit]. Ten minutes, one sentence, one price.
+> The folder is still free and it stays free: [System]. Ten minutes, one sentence, one price.
 >
 > Not on the Install Day list yet? [Add your name] — I'll tell you first when the next one is set.
 >
@@ -632,7 +632,7 @@ Merged from both auditors, ranked by damage if shipped as-is.
 | 10 | **Kill the fabricated early bird; install The Bleed** | If the discount gets cut, urgency is zero. The Bleed is honest, recurring, and self-computed. |
 | 11 | **Branch Email 4 on activation; move to Day 5** | The paid argument only works on someone who has watched the rubric behave generically. |
 | 12 | **Rewrite the first win as the passed sentence, not the rejection** | Wins you have to explain are not wins, and "rewrite one line" was undertested to the point of dishonesty. |
-| 13 | **Cap the Kit at one rejection per handoff; accept-with-soft-flag** | v1 monetized a second rejection, contradicting its own rule. Getting caught building a paywall from a rubric costs more than it earns. |
+| 13 | **Cap the System at one rejection per handoff; accept-with-soft-flag** | v1 monetized a second rejection, contradicting its own rule. Getting caught building a paywall from a rubric costs more than it earns. |
 | 14 | **Add YouTube description, pinned comment, and chapters** | Highest-traffic conversion surface, completely absent. Chapter-mark the Challenge Pass at 3:44. |
 | 15 | **Add the mobile/TV path** | People watch YouTube on phones and cannot install a CLI. |
 | 16 | **Define Agent Ops or remove the rung** | Undefined subscriptions churn at month two and the refunds cost more than the MRR. |

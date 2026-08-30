@@ -149,10 +149,10 @@ At least one point per run, the human operator overrules an agent and states the
 
 | Metric | Target | Note |
 |---|---|---|
-| Video → Kit download rate | To be baselined | CTA is the artifact, not a form — expect above-category |
-| Kit → first-win completion | The critical metric | A downloaded folder that never opens converts nothing |
+| Video → System download rate | To be baselined | CTA is the artifact, not a form — expect above-category |
+| System → first-win completion | The critical metric | A downloaded folder that never opens converts nothing |
 | Email 1 reply rate | Highest-intent signal in the funnel | Manual replies until volume forces a form |
-| Kit → Install Day | Load-bearing rung | If Install Day doesn't run, the ladder has a hole |
+| System → Install Day | Load-bearing rung | If Install Day doesn't run, the ladder has a hole |
 | Install Day → Sprint | Structural trigger | Install Day ends with a price and nothing built; that gap is the offer |
 
 ---
@@ -189,7 +189,7 @@ At least one point per run, the human operator overrules an agent and states the
 | Fabricated urgency (early-bird with no workshop date) | High | Set the date before publishing, or cut the deadline entirely |
 | Video overruns 15 minutes | Medium | Second-pass audit times the retention map block by block |
 | Agent files fail to load after manual creation | Medium | Restart Claude Code; verify with `/agents` |
-| Kit teaches enough that some never buy | Accepted | Crippling the Kit would contradict the video, and the video is the asset |
+| System teaches enough that some never buy | Accepted | Crippling the System would contradict the video, and the video is the asset |
 
 ---
 
@@ -206,7 +206,7 @@ At least one point per run, the human operator overrules an agent and states the
 ## 9. Out of scope for v1
 
 - Web research (no live search; brief-only, inference labeled)
-- Building the actual Revenue Agent Kit folder as a shippable download
+- Building the actual Pinky Brain Revenue System folder as a shippable download
 - Landing pages, checkout, or email platform integration
 - Recording, editing, or publishing the video
 - Any agent that ships, sends, or publishes on the creator's behalf
@@ -223,4 +223,4 @@ Owned by PinkyF. Not decided by the agent team.
 3. **Real business or disclosed composite?** A real named business beats Ledger & Lane. Without one, use the composite and disclose it on camera.
 4. **Is Install Day on the calendar?** If not, the early-bird deadline is fabricated and must be cut.
 5. **Reply-volume cutoff.** At what download count does the manual Email 1 reply become a form?
-6. **Do the persona names ship in the Kit?** Kimi / Zahkeily / TingTing / Hezekiah are strong on camera, mildly confusing in a folder opened three days later. Recommendation: keep them, and map each to its seat at the top of the runbook.
+6. **Do the persona names ship in the System?** Kimi / Zahkeily / TingTing / Hezekiah are strong on camera, mildly confusing in a folder opened three days later. Recommendation: keep them, and map each to its seat at the top of the runbook.

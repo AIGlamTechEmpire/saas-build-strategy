@@ -100,7 +100,7 @@ The video's CTA is the artifact itself — the same folder, dragged into an empt
 | Rung | Asset | Price *(recommended, unconfirmed)* | Job |
 |---|---|---|---|
 | 1 | The YouTube video | Free | Prove the mechanism, state the money line |
-| 2 | **The Revenue Agent Kit** | Free (email) | Put the machine in their hands the same day |
+| 2 | **The Pinky Brain Revenue System** | Free (email) | Put the machine in their hands the same day |
 | 3 | **Install Day** — 2-hour live workshop, run the Build Order on your own business | **$97** ($47 early-bird, first 72h) | First paid transaction, first real output |
 | 4 | **The Revenue Build Sprint** — 14 days done-with-you, 5 assets shipped, offer live | **$1,497** (or 2 × $799) | Core monetization of this content |
 | 5 | **Revenue Systems Buildout** — 30 days done-for-you, 5 seats/month, by application | **$7,497** | Premium capacity |
@@ -194,14 +194,14 @@ This is the falsifiable claim of the entire video. Role separation here is not a
 
 ## Lead Magnet
 
-### The Revenue Agent Kit
+### The Pinky Brain Revenue System
 
 **Promise:** The exact four-agent build order from the video, in a folder you drop into an empty project. Your business goes in. A defined ICP, a priced offer, three angles, and a follow-up sequence come out.
 
 **Landing-page line:** *"The machine PinkyF ran on Ledger & Lane. Same four seats. Same rubrics. Point it at your business."*
 
 ```
-revenue-agent-kit/
+pinky-brain-revenue-system/
 ├── START-HERE.md
 ├── business-brief.md
 ├── .claude/agents/
@@ -218,7 +218,7 @@ revenue-agent-kit/
     └── paste-prompts.md
 ```
 
-| File | Why it's in the Kit |
+| File | Why it's in the System |
 |---|---|
 | `START-HERE.md` | One screen, not a manual. Where to put the folder, the 10-minute first win, one sentence on why you can't skip a seat, and the command that starts Seat 1. Opens with a 3-line install block and a 60-second install video — **not** a link to docs. |
 | `business-brief.md` | The template. Seven fields, each with a bad example and a good example beside it. This is the "defined business asset" the whole video argues they don't have. Filling it out *is* the reframe landing. |
@@ -236,7 +236,7 @@ Not "read the docs." One outcome:
 
 > **Fill in `business-brief.md`. Run Seat 1. Get your first ICP statement rejected.**
 
-That is the win — deliberately. The Kit is built so the Offer seat rejects most first passes as category-level, exactly as it did on camera. The user's first ten minutes end with a machine telling them their business definition is too vague, which is the entire thesis of the video happening *to them* instead of to a bookkeeper in Dayton.
+That is the win — deliberately. The System is built so the Offer seat rejects most first passes as category-level, exactly as it did on camera. The user's first ten minutes end with a machine telling them their business definition is too vague, which is the entire thesis of the video happening *to them* instead of to a bookkeeper in Dayton.
 
 Then they rewrite one line, re-run, and pass. Under ten minutes. `START-HERE.md` tells them to reply to the delivery email with that sentence. **That reply is the highest-intent signal in the funnel** and it drives everything downstream.
 
@@ -250,7 +250,7 @@ Word for word at **13:35**, spoken over the screen recording of the folder being
 >
 > I'm dropping in the same folder I just used. There's the four agents. And… running.
 >
-> That folder is the Revenue Agent Kit. Four agent files, the business brief template, the build order, and the rubric that lets them tell each other no. Link's below. It's the folder, not a PDF.
+> That folder is the Pinky Brain Revenue System. Four agent files, the business brief template, the build order, and the rubric that lets them tell each other no. Link's below. It's the folder, not a PDF.
 >
 > One thing when you open it. Fill in the brief first. Then run Signal — and let it reject you. Mine got rejected on camera. Yours probably will too. That's the tool working.
 >
@@ -267,10 +267,10 @@ Word for word at **13:35**, spoken over the screen recording of the folder being
 All from PinkyF. Plain text, no header images, real reply-to address.
 
 ### Email 1 — Day 0 — DELIVERY
-**Subject:** The Revenue Agent Kit (open the brief first)
+**Subject:** The Pinky Brain Revenue System (open the brief first)
 **Preview:** Ten minutes. One rejected ICP. Then you're moving.
 
-> Here's the Kit. [Download]
+> Here's the System. [Download]
 >
 > Four agent files. The business brief template. The build order. The rubric.
 >
@@ -328,7 +328,7 @@ All from PinkyF. Plain text, no header images, real reply-to address.
 >
 > The agents build. Somebody still has to aim them.
 >
-> Full worked chain is in `examples/ledger-and-lane.md` in your Kit. Rejection, override, math, all of it.
+> Full worked chain is in `examples/ledger-and-lane.md` in your System. Rejection, override, math, all of it.
 >
 > — PinkyF
 
@@ -338,7 +338,7 @@ All from PinkyF. Plain text, no header images, real reply-to address.
 **Subject:** Install Day
 **Preview:** Two hours. Your business. You leave with a price.
 
-> The Kit is free and it stays free. So let me answer the obvious question before you ask it.
+> The System is free and it stays free. So let me answer the obvious question before you ask it.
 >
 > Why pay for anything when you already have the files?
 >
@@ -372,7 +372,7 @@ All from PinkyF. Plain text, no header images, real reply-to address.
 >
 > If you already know your problem isn't clarity — it's that nothing you define ever ships — Install Day is the wrong door. Reply with the word SPRINT and I'll send you the Build Sprint details instead. Fourteen days, done with you, five assets shipped, offer live. *(Recommended at $1,497, or two payments of $799, pending sign-off.)*
 >
-> And if neither is right, that's a real answer. You have the Kit. Fill in the brief. Run the four seats. That path works, it just works slower and you'll do the calibration yourself.
+> And if neither is right, that's a real answer. You have the System. Fill in the brief. Run the four seats. That path works, it just works slower and you'll do the calibration yourself.
 >
 > You're not behind. You were building in the wrong order.
 >
@@ -408,7 +408,7 @@ Everything below must be **visible**, not asserted. This audience is skeptical b
 | 8 | **Money math appearing as she speaks it** | 8:45 | `6 × $450 = $2,700`, then the full path to $64,800. |
 | 9 | **Honest elapsed time** | 12:35, plain text, no spin | Real wall-clock. Never imply real-time if it's cut. |
 | 10 | **Finished deliverable, readable zoom, 5 silent seconds** | 12:05 | Kill the music bed. Let people pause and read. |
-| 11 | **The Kit dragged into a fresh project and working** | 13:35 | The CTA is the artifact, so show the artifact working. End on it running. |
+| 11 | **The System dragged into a fresh project and working** | 13:35 | The CTA is the artifact, so show the artifact working. End on it running. |
 | 12 | **`business-brief.md` written BEFORE any agent runs** | ~3:05 | This file is the fix for objection #5. It must appear on screen first, with real Ledger & Lane numbers, not a placeholder. |
 
 **Two supporting graphics:** the four-box `SIGNAL → OFFER → ANGLE → CONVERSION` motion graphic at 1:20; the same graphic with **box 3 lit red and labeled "YOU ARE HERE"** at 1:52 (screenshot bait), then lit green at 9:35 as visual payoff.
@@ -432,7 +432,7 @@ Everything below must be **visible**, not asserted. This audience is skeptical b
 9. **B-roll of glowing brains, robot hands, neural-network swirls, or a hand touching a floating interface.** Instantly signals a generic AI video.
 10. **Any sentence starting "in today's fast-moving AI landscape."** Or "AI is changing everything." Or "the future of work."
 11. **A sponsor read before 12:00.** If there's a sponsor, it goes after the deliverable lands.
-12. **An outro card, end-screen dance, or "smash that subscribe."** Cut hard on "go build in the right one," with the Kit still on screen.
+12. **An outro card, end-screen dance, or "smash that subscribe."** Cut hard on "go build in the right one," with the System still on screen.
 13. **Projected client counts you can't defend.** The money math uses the same client list at a different price. No fantasy "and if you get 50 clients."
 14. **Agent orchestration for its own sake.** Agents talking to each other with no shipped, named, business-usable asset at the end reads as a demo, not a system. The differentiator is deliverable quality, not orchestration.
 
@@ -442,8 +442,8 @@ Everything below must be **visible**, not asserted. This audience is skeptical b
 
 Ranked by cost.
 
-1. **Claude Code install is the biggest leak in the funnel, by a wide margin.** This audience is intermediate on *AI tools* — meaning ChatGPT in a browser. The Kit requires a terminal, an install, and a login. A meaningful share will download, hit the install step, and quit silently. **Fix:** `START-HERE.md` opens with a 3-line install block and a 60-second unlisted install video, not a docs link. Ship `fallback/paste-prompts.md` for anyone who can't get the CLI running.
-2. **The folder-in-a-folder problem.** If `.claude/agents/` lands one level too deep, the agents don't appear and the user concludes the Kit is broken. **Fix:** show the correct tree with the project root labeled, plus one check — *type `/agents`; you should see four.*
+1. **Claude Code install is the biggest leak in the funnel, by a wide margin.** This audience is intermediate on *AI tools* — meaning ChatGPT in a browser. The System requires a terminal, an install, and a login. A meaningful share will download, hit the install step, and quit silently. **Fix:** `START-HERE.md` opens with a 3-line install block and a 60-second unlisted install video, not a docs link. Ship `fallback/paste-prompts.md` for anyone who can't get the CLI running.
+2. **The folder-in-a-folder problem.** If `.claude/agents/` lands one level too deep, the agents don't appear and the user concludes the System is broken. **Fix:** show the correct tree with the project root labeled, plus one check — *type `/agents`; you should see four.*
 3. **The Challenge Pass may never fire.** The rejection is the emotional payload, and it only triggers if the brief is filled in enough to score. Three vague lines get a vague pass. **Fix:** the Offer agent must also reject on *insufficient input*, naming the missing brief fields. Otherwise Email 1's promise goes unfulfilled and the sequence loses its spine.
 4. **The $450 override reads as arbitrary in writing.** On camera her conviction carries it. In a file, "she picked a lower number" looks like the agent was right and she flinched. **Fix:** `examples/ledger-and-lane.md` must carry the full rationale — solo operator, no case studies, month one not month nine.
 5. **Fake urgency on the early bird.** A 72-hour window from Day 4 only works if Install Day has a live date 7–14 days out. **Fix:** set the date before the video publishes. If it isn't set, **cut the early-bird entirely.** Losing the discount costs less than losing credibility with a group whose defining trait is having been sold to too many times.
@@ -451,7 +451,7 @@ Ranked by cost.
 7. **Email 5 carries two CTAs.** One more than it should. It survives only because the Sprint mention doubles as disqualification. Watch the click data; if the $47 rate drops against a single-CTA control, move the SPRINT paragraph to a P.S.
 8. **"Free Kit → $1,497 Sprint" is a wide gap.** Install Day at $97 is the load-bearing rung. If it doesn't run, the ladder has a hole and the Sprint will not sell from a free download. **Do not treat Install Day as optional.**
 9. **Install Day date, time, and time zone are missing from every asset.** The most common reason a warm buyer stalls on a workshop page. Put date, time, time zone, and "replay is not the product" above the fold.
-10. **The Kit teaches the mechanism well enough that some people will never buy.** Accept it. Crippling the Kit would contradict the video, and the video is the asset. Revenue comes from calibration, speed, and having someone overrule you — not from withholding files.
+10. **The System teaches the mechanism well enough that some people will never buy.** Accept it. Crippling the System would contradict the video, and the video is the asset. Revenue comes from calibration, speed, and having someone overrule you — not from withholding files.
 
 ---
 
