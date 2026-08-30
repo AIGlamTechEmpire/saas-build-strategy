@@ -55,6 +55,34 @@ agent would have found. It came from the creator having lived it.
 the operational filters (referral-fed, has never raised prices, 18 months to 6 years in) on top
 as qualifying detail — not as a replacement.
 
+## Voice — the positioning line
+
+Updated by the creator, 2026-08-30. Use this verbatim.
+
+> **"I'm an entrepreneur speaker with a tech background and an engineer's eye for what's broken.
+> AI is the amplifier — my client is always the hero. Put me in front of people and watch what
+> happens."**
+
+**What changed and why it matters.** The previous version opened *"I'm a talker with a tech
+background."* Charming, and unbookable. "Talker" is a personality trait. **"Entrepreneur speaker"
+is a category a programs chair can put on an agenda and defend to a committee.**
+
+Three things this line now does in order:
+
+1. **Names the category** — entrepreneur speaker. Someone looking to book a speaker sees the word.
+2. **Earns the room** — *tech background, engineer's eye for what's broken.* Credibility, not adjectives.
+3. **Closes with the ask** — *"Put me in front of people and watch what happens."* With "speaker"
+   established up front, that line stops being a flourish and becomes an invitation.
+
+**Where it needs to change:**
+
+- [ ] pinkyfloyd.vip — the "In my own words" section
+- [ ] Media kit
+- [ ] LinkedIn headline / about
+- [ ] Email signature
+- [x] This brief
+- [x] OPP outreach emails (already lead with the engineering credential, which is consistent)
+
 ## Core promise
 
 Help entrepreneurs identify how to generate revenue in the first 30 days, then build
