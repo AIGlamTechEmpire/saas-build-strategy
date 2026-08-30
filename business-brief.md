@@ -20,17 +20,40 @@ it is the reason this brand is not confused with the grey AI-automation category
 
 ---
 
-## Audience
+## Audience — ICP LEVEL, from the creator's own site
 
-Coaches, consultants, creators, service providers, and entrepreneurs who know AI is
-important but are overwhelmed by tools and do not know what business system to build first.
+**GenX and Boomer women entrepreneurs who built their businesses with their bare hands.**
 
-**[NEEDED — narrow this to ICP level.]** The Challenge Pass will reject the line above as
-category-level, exactly as it did in the first run. It needs a revenue band, a business
-stage, a lead source, and a disqualification. See the Referral-Fed Operator profile in
-`outputs/final-video-brief.md` for the shape required.
+Published positioning, verbatim from pinkyfloyd.vip:
 
----
+> *"I stopped coding. I started reigning. I help GenX & Boomer women entrepreneurs bring AI into
+> the businesses they built with their bare hands — without losing the glam, the soul, or the
+> human touch."*
+
+**Title:** Pinky Floyd, **The AI Glam Architect** · AI GlamTech Empire™
+
+### Why this beats the ICP the agent team wrote
+
+The second-pass audit rewrote the audience as *"The Referral-Fed Operator, $4K–$20K/month."*
+That was a real improvement on "coaches, consultants and service providers" — but it was
+invented, and the creator's own published positioning is better on three counts:
+
+| | Agent version | Creator's own |
+|---|---|---|
+| Identifiable | Requires reading a revenue band to self-select | *GenX & Boomer women* — recognised instantly |
+| Emotional | Underpriced, referral-fed | *Built it with their bare hands* — pride and history |
+| Names the real fear | Being behind, post-hype fatigue | **Losing the glam, the soul, the human touch** |
+
+That last row is the important one. **This audience is not primarily afraid of falling behind.
+They are afraid that adopting AI turns them into something they are not** — generic, cold,
+indistinguishable from a 25-year-old with a laptop.
+
+That is a sharper and more specific fear than "post-hype fatigue," and it is not one a research
+agent would have found. It came from the creator having lived it.
+
+**Rule going forward: use the published positioning. Do not let an agent rewrite it.** Layer
+the operational filters (referral-fed, has never raised prices, 18 months to 6 years in) on top
+as qualifying detail — not as a replacement.
 
 ## Core promise
 
