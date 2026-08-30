@@ -39,22 +39,40 @@ AI-powered business systems that create leverage, leads, and revenue.
 
 ---
 
-## Current state — REAL NUMBERS REQUIRED
+## Current state — REAL NUMBERS
 
-The agents cannot price an offer or compute a money line without these.
+Supplied by the creator, 2026-08-30.
 
-| Field | Status |
+| Field | Answer |
 |---|---|
-| Current monthly revenue | **[NEEDED]** |
-| Number of paying clients right now | **[NEEDED]** |
-| What is actually sold today, and at what price | **[NEEDED]** |
-| Where the last three clients came from | **[NEEDED]** |
-| Email list size | **[NEEDED]** |
-| YouTube subscribers / primary audience size | **[NEEDED]** |
-| Has a paid program been sold before — and what happened | **[NEEDED]** |
-| Hours per week currently spent delivering | **[NEEDED]** |
+| Programs sold | **2**, over roughly 3 months |
+| Program 1 | Valued $5,000 · **sold at $2,500** |
+| Program 2 | Valued $5,000 · **sold at $4,000** (after a $1,000 discount) |
+| **Actual cash collected** | **$6,500** |
+| Value delivered | $10,000 |
+| **Actual monthly average** | **≈ $2,167/month** |
+| Current clients | At least one active |
+| 12-month goal | **$750,000** → **$62,500/month** |
+| Gap to goal | ≈ **29×** current monthly |
+| Next revenue channel | Entrepreneur speaking engagements — starting, not yet booked |
+| Email list size | [NEEDED] |
+| Audience size (YouTube / IG / TikTok) | [NEEDED] |
 
----
+### The first bleed, found by her own framework
+
+**She discounts.** $5,000 → $2,500. $5,000 → $4,000. That is **$3,500 given away across two
+deals** — 35% of the total she could have collected.
+
+This is not a pricing question, it is a Bleeding question, and the methodology finds it in
+one pass. It is also the highest-leverage fix available: closing that leak alone would have
+taken $6,500 to $10,000 with zero new clients and zero new hours.
+
+### Number discipline
+
+The honest figure is **$6,500 collected**, not $10,000. $10,000 is the *value* of what was
+delivered. Using the larger number would repeat exactly the error the agents caught in the
+first run — the $5,400 headline that required doubling the client count. The rule holds
+here too: **defend the number that survives audit.**
 
 ## Proposed ladder (from the first agent run — not yet validated against real numbers)
 
