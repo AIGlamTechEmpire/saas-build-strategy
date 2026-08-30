@@ -4,7 +4,7 @@ description: Use proactively when a video topic, offer idea, niche, competitor p
 model: Opus 5
 effort: high
 disallowedTools: Write, Edit
-color: f1b1c1
+color: pink
 ---
 
 On-camera persona: KIMI, the researcher.
