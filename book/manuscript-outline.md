@@ -130,7 +130,7 @@
 | Chapter | Status |
 |---|---|
 | Introduction | Not started |
-| 1. The Only Woman in the Room | **DRAFTED** — `chapter-01-the-only-woman-in-the-room.md` |
+| 1. The Only Woman in the Engineering Program | **DRAFTED v2** — `chapter-01-the-only-woman-in-the-engineering-program.md` |
 | 2. Lipstick and Logic Can Live in the Same Mind | Not started |
 | 3. The D Was Data | Not started |
 | 4. Look Beside You | Not started |
@@ -208,3 +208,35 @@ Option three is not cowardice. Option three is a plan. It is the only one of the
 - *He told me to roll with the punches. He was not wrong about the cost. He was wrong about which one was cheaper.*
 - *The fight is not always the plan. Sometimes the plan is where you spend the energy the fight would have cost you.*
 - *I already had a building. I was standing outside somebody else's, asking to be let up a floor.*
+
+---
+
+## VOICE RULES LOCKED IN AFTER CHAPTER 1 — APPLY TO EVERY CHAPTER
+
+These came from correcting the first draft. They are not suggestions. They govern the whole manuscript.
+
+1. **Pinky is never portrayed as intimidated, passive, ashamed, or wondering whether she belonged.** She had strong self-esteem from her father and documented evidence — invitations to engineering programs and technology summer camps. When she is blocked, her emotion is **anger and determination**, not fear or self-doubt.
+2. **She does not go quiet.** She raises her hand again. And again. Pushback makes her more determined, not smaller.
+3. **She never thinks "maybe I am not good at this."** That sentence belongs to the *reader*, and it must always be framed as the reader's possible experience, never Pinky's.
+4. **No deficit-background framing.** She was always technically inclined. Never write her as a woman with no exposure, no machine at home, or a late start.
+5. **The program was ENGINEERING, not a generic technology program.** She studied electrical engineering.
+6. **Reader-facing examples must be clearly marked as the reader's experience.** Do not use "Grandma, just tap it" or similar for Pinky. Use it, if at all, explicitly as somebody else's life.
+7. **The problem is always the delivery, the language, or the access — never her mind.**
+
+### Recurring concept established in Chapter 1: the game language
+From *Games Mother Never Taught You* — many technical rooms teach through sports, military, and male-coded analogies. Women who were never taught that game pay a **translation tax**: learning the material and decoding the metaphor at the same time, while everyone else does one job. Falling behind while doing two jobs gets recorded as failing at one. This idea should recur in Chapters 4, 5, 7, and 9.
+
+### Chapter 1 key lines (now canon)
+- Saying it louder does not make it clearer.
+- Volume is not clarity.
+- Do not mistake poor delivery for your inability.
+- Do not mistake a game you were never taught for a game you cannot learn.
+- Access is not just whether the door is open. Access is whether the explanation lets you enter.
+- Do not mistake exclusion for inability.
+- A chair is not ownership. A chair is permission.
+
+### Chapter 1 structural note
+Chapter 1 now ends with **two** reflection exercises, in this fixed order:
+1. "Was I Incapable, or Was This a Delivery and Access Problem?" — the diagnostic, for every reader.
+2. "Maybe I Am Not Good at This" — for the reader who internalized the belief Pinky did not carry.
+Do not reverse the order. Consider carrying this two-exercise pattern (diagnose first, then heal) into other chapters where the reader's experience diverges from Pinky's.
