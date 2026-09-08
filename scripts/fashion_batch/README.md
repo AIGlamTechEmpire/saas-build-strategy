@@ -114,8 +114,18 @@ wasting retries, then move on to the next one.
   `HIGGSFIELD_MODEL` if needed.
 - **4:5 aspect ratio and Higgsfield's Soul model don't mix.** Many lifestyle
   prompts ask for `[4:5]`. Krea's `google/nano-banana-pro` (the default)
-  supports 4:5 natively. Higgsfield's Soul 2.0 model does not -- its closest
-  option is `3:4`.
+  supports 4:5 natively, so the Krea path always uses each prompt's own
+  aspect ratio as written. Higgsfield's Soul 2.0 model doesn't support 4:5 at
+  all, and its closest option (`3:4`) isn't actually the ratio LinkedIn wants
+  either -- so rather than generate a compromise ratio, the production call
+  was to generate Soul output at `9:16` across the board and crop down to
+  `4:5` for LinkedIn afterward (a clean trim off the top/bottom, no lost
+  width). If you're running `batch_generate.py --provider higgsfield`
+  directly rather than through Claude Code's native Soul flow, pass
+  `--set` as usual but note the script sends each prompt's own aspect ratio
+  as-is -- override per-model behavior via `HIGGSFIELD_MODEL` /
+  `HIGGSFIELD_REFERENCE_ARG` in `.env`, or crop the 4:5 outputs down from
+  their 9:16 renders afterward to match this same plan.
 - **10 reference images is enforced by default.** The script refuses to run
   if `reference_images/` doesn't contain exactly 10 image files (pass
   `--allow-any-reference-count` to override).
