@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Generated images / logs / manifest from batch_generate.py
+output/
+
+# Personal reference photos -- never commit these, keep the folder structure only
+reference_images/*
+!reference_images/.gitkeep
+!reference_images/README.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
