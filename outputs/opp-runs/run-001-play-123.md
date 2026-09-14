@@ -1,7 +1,10 @@
 # OPP RUN 001 — Play #123: The Black Employee Network Play
 
 **Run by:** coordinator, 2026-08-30
-**Status:** ⬜ NOT SENT — contact verification outstanding
+**Status:** 📝 TWO GMAIL DRAFTS CREATED 2026-09-14 — not sent
+- **001a → info@bdpa.org** (BDPA national office) — published general contact, safe to send as written
+- **001b → kamilah.stroy@bdpa.org** (Houston Chapter President, Kamilah R Stroy) — appeared in two
+  independent searches but the source page could not be opened from here. **Verify before sending.**
 **Research limitation:** this environment can search the web but is blocked from opening most
 sites. Target selection, positioning, offer and email below are complete. **The contact must be
 verified before sending.** Two-minute instructions at the bottom.

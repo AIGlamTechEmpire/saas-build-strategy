@@ -1,2 +1,3 @@
-run,play_number,play_name,organization,decision_maker,title,contact_method,verified,training_offered,date_contacted,follow_up_date,response,next_action
-001,123,The Black Employee Network Play,BDPA (chapter TBD),TBD,President or VP Programs,TBD,NO,Where Your Work Is Bleeding (60-min live),,,,Verify chapter contact then send
+run,play_number,play_name,organization,decision_maker,title,contact_method,verified,training_offered,date_drafted,date_sent,follow_up_date,response,next_action
+001a,123,The Black Employee Network Play,BDPA National Office,(routing request),National office,info@bdpa.org,YES - published national contact,Where Your Work Is Bleeding (60-min live),2026-09-14,,,,"Gmail draft ready - send as-is"
+001b,123,The Black Employee Network Play,BDPA Houston Chapter,Kamilah R Stroy,Chapter President,kamilah.stroy@bdpa.org,NO - search result only,Where Your Work Is Bleeding (60-min live),2026-09-14,,,,"Gmail draft ready - VERIFY address on houstonbdpa.org/contact-us before sending"
